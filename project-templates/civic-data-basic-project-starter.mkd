@@ -1,0 +1,37 @@
+<!-- //Totally forked this from slack Open Miami and Code for Gainsville's panel on brigades at SRCCON -->
+
+###  Thinking of creating a project? Awesome! You've taken the first step. Now ask yourself:  
++  What problem are we trying to solve?  
++  Who will benefit (directly and indirectly) from this project?  
++  Where can we find any research and data?  
++  What help is needed at this time? (ask this each step)  
++  What are the next steps to move the project along? (ask this each step)  
+
+###  What project ideas have other cities thought of?
++  [Open Austin](https://github.com/open-austin/project-ideas/issues)  
++  [Code for San Jose](https://github.com/codeforsanjose/Project-Ideas/issues)  
++  [Code for Miami](https://github.com/Code-for-Miami/project-ideas/issues)  
++  [OpenCity (Chicago)](http://opencityapps.org/
+http://brigade.codeforamerica.org/brigade/projects)  
+
+###  Are there existing projects on which we can collaborate or that we can fork?  
++  Basic github pages projects, like [Jlord’s fork-n-go](http://jlord.us/forkngo/) and basic forking of repos a la [GitHub's Spoon-Knife repo](https://help.github.com/articles/fork-a-repo/)  
++  [Data related tasks, modifying data, cleaning data](http://www.dcode.fr/tools-list#data_processing)  
++  Do something with the data directly. For example: scraping, analysis, modeling, geospatial analysis, transformation  
+
+    Examples:  
+    [Open Civic Data](http://docs.opencivicdata.org/en/latest)  
+    [Open Elections](http://openelections.net/)  
+    [Data.World](https://data.world)    
+    [Socrata](https://dev.socrata.com)  
+    [The Quartz Directory of Data](http://bit.ly/2uaArV4)  
+
++  Design Thinking  
+    Example:   
+    [Austin's playbook from CodeAcross Austin 2016](http://bit.ly/2ffrjaR)  
++  Storytelling   
+    Example:  
+    [CFA Summit Fellowship stories](https://www.youtube.com/user/CodeforAmerica/videos)
+
+References:
+Open Miami, [Code for Gainsville](https://github.com/open-austin/project-ideas), [The Civic Tech canvas](https://www.open-austin.org/civic-tech-canvas/ (Open Austin)
