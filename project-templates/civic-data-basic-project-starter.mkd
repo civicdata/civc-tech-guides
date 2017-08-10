@@ -11,8 +11,8 @@
 +  [Open Austin](https://github.com/open-austin/project-ideas/issues)  
 +  [Code for San Jose](https://github.com/codeforsanjose/Project-Ideas/issues)  
 +  [Code for Miami](https://github.com/Code-for-Miami/project-ideas/issues)  
-+  [OpenCity (Chicago)](http://opencityapps.org/
-http://brigade.codeforamerica.org/brigade/projects)  
++  [OpenCity (Chicago)](http://opencityapps.org/)  
++  [Code for America: Brigade Projects](http://brigade.codeforamerica.org/brigade/projects)  
 
 ###  Are there existing projects on which we can collaborate or that we can fork?  
 +  Basic github pages projects, like [Jlord’s fork-n-go](http://jlord.us/forkngo/) and basic forking of repos a la [GitHub's Spoon-Knife repo](https://help.github.com/articles/fork-a-repo/)  
